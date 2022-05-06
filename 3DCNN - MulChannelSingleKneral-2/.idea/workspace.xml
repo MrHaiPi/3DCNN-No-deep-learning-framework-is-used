@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ad85cd8-08ba-443a-9f91-93c8f6406088" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PoolFunction.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/PoolFunction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="88" column="47" selection-start-line="88" selection-start-column="47" selection-end-line="88" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#112#1753#0" />
+                <element signature="e#1841#3705#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrainNew.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/TrainNew.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LayerConv.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/LayerConv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LayerMapping.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/LayerMapping.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>shape_return</find>
+      <find>j</find>
+      <find>i</find>
+      <find>layers_conv_pool</find>
+      <find>data.shape</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>k</replace>
+      <replace>data.shape</replace>
+      <replace>i</replace>
+      <replace>j</replace>
+      <replace>layers</replace>
+      <replace>shape_return</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Layer.py" />
+        <option value="$PROJECT_DIR$/LayerPool.py" />
+        <option value="$PROJECT_DIR$/untitled.py" />
+        <option value="$PROJECT_DIR$/Parameter/MappingFunction.py" />
+        <option value="$PROJECT_DIR$/PoolFuntion.py" />
+        <option value="$PROJECT_DIR$/Train.py" />
+        <option value="$PROJECT_DIR$/ActivateFunction.py" />
+        <option value="$PROJECT_DIR$/PicutreResize.py" />
+        <option value="$PROJECT_DIR$/PictureResize.py" />
+        <option value="$PROJECT_DIR$/DataHandle.py" />
+        <option value="$PROJECT_DIR$/TSBlockS.py" />
+        <option value="$PROJECT_DIR$/TSBlock.py" />
+        <option value="$PROJECT_DIR$/LayerLamda.py" />
+        <option value="$PROJECT_DIR$/../C3D/TrainNew.py" />
+        <option value="$PROJECT_DIR$/../C3DTS - 副本/NeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/LayerMaxPoolLam.py" />
+        <option value="$PROJECT_DIR$/UFC101Data.py" />
+        <option value="$PROJECT_DIR$/VideoToPicture.py" />
+        <option value="$PROJECT_DIR$/ConvolutionFunction.py" />
+        <option value="$PROJECT_DIR$/MappingFunction.py" />
+        <option value="$PROJECT_DIR$/../C3DTS _ without_lambda/ConvolutionFunction.py" />
+        <option value="$PROJECT_DIR$/../C3DTS _ without_lambda/LayerConv.py" />
+        <option value="$PROJECT_DIR$/../C3DTS _ without_lambda/LayerMaxPool.py" />
+        <option value="$PROJECT_DIR$/../C3DTS _ without_lambda/MappingFunction.py" />
+        <option value="$PROJECT_DIR$/../C3DTS _ without_lambda/PoolFunction.py" />
+        <option value="$PROJECT_DIR$/../C3D/ConvolutionFunction.py" />
+        <option value="$PROJECT_DIR$/../C3D/LayerConv.py" />
+        <option value="$PROJECT_DIR$/../C3D/LayerMaxPool.py" />
+        <option value="$PROJECT_DIR$/../C3D/MappingFunction.py" />
+        <option value="$PROJECT_DIR$/../C3D/PoolFunction.py" />
+        <option value="$PROJECT_DIR$/LayerLambda.py" />
+        <option value="$PROJECT_DIR$/../untiled.py" />
+        <option value="$PROJECT_DIR$/../C3DTS _ without_lambda/NeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/../C3D/NeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/DataIo.py" />
+        <option value="$PROJECT_DIR$/PoolFunction.py" />
+        <option value="$PROJECT_DIR$/LayerMapping.py" />
+        <option value="$PROJECT_DIR$/TrainOld.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/LayerMaxPool.py" />
+        <option value="$PROJECT_DIR$/../3DCNN _with_mapping - 副本/LayerMaxPool.py" />
+        <option value="$PROJECT_DIR$/../3DCNN _with_mapping - 副本/NeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/NeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/TrainNew.py" />
+        <option value="$PROJECT_DIR$/Adam.py" />
+        <option value="$PROJECT_DIR$/LayerConv.py" />
+        <option value="$PROJECT_DIR$/LayerFC.py" />
+        <option value="$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/LayerConv.py" />
+        <option value="$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/TrainNew.py" />
+        <option value="$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/LayerMapping.py" />
+        <option value="$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/PoolFunction.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3DCNN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3DCNN - MulChannelSingleKneral-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="C3D" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="C3D" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myAttachToSubprocess" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Graduation project\project\3DCNN\Parameter\stru1" />
+      <recent name="D:\Graduation project\project\C3DTS _ with_lambda_2\Parameter\20200422_95%train_100%test" />
+      <recent name="D:\Graduation project\project\C3DTS _ with_lambda_2\Figure\Adam" />
+      <recent name="D:\Graduation project\project\C3DTS _ with_lambda_2\Figure\4-2-1-1" />
+      <recent name="D:\Graduation project\project\C3DTS _ with_lambda_2\Figure\2-2-2-2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\16001\Desktop\Graduation project\project\C3DTS _ with_lambda_2" />
+      <recent name="C:\Users\16001\Desktop\Graduation project\project\C3DTS" />
+      <recent name="C:\Users\16001\Desktop\毕业设计\工程\C3D" />
+      <recent name="C:\Users\16001\Desktop\ProjectEX\PythonEX\C3D" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TrainNew (1)">
+    <configuration name="NeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3DCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NeuralNetwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3DCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TrainNew (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3DCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/TrainNew.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TrainNew" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3DCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainNew.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TrainOld" type="PythonConfigurationType" factoryName="Python">
+      <module name="3DCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainOld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="untiled" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="3DCNN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../untiled.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TrainOld" />
+      <item itemvalue="Python.TrainNew" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.NeuralNetwork" />
+      <item itemvalue="Python.untiled" />
+      <item itemvalue="Python.TrainNew (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TrainNew (1)" />
+        <item itemvalue="Python.TrainNew" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.untiled" />
+        <item itemvalue="Python.NeuralNetwork" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="3" visible="true" weight="0.24042273" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.2617354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.57610244" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48933142" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Structure" order="0" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32716927" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="631" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="train_target" />
+        <watch expression="x_d_sum" />
+        <watch expression="permutation" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LayerMapping.py" />
+    <entry file="file://$PROJECT_DIR$/LayerFC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataIo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="130" column="4" selection-start-line="130" selection-start-column="4" selection-end-line="130" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3743">
+          <caret line="197" column="38" lean-forward="true" selection-start-line="197" selection-start-column="38" selection-end-line="197" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LayerMaxPoolLam.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/ConvolutionFunction.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/LayerLambda.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/LayerMaxPool.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/MappingFunction.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/PoolFunction.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/ConvolutionFunction.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/LayerConv.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/LayerFC.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/LayerMaxPool.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/MappingFunction.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/PoolFunction.py" />
+    <entry file="file://$PROJECT_DIR$/VideoToPicture.py" />
+    <entry file="file://$PROJECT_DIR$/../VideoToPicture.py" />
+    <entry file="file://$PROJECT_DIR$/../untiled.py" />
+    <entry file="file://$PROJECT_DIR$/Figure/4-2-1-1/1_CV_acc_rate_test.npy" />
+    <entry file="file://$PROJECT_DIR$/../C3D/NeuralNetwork.py" />
+    <entry file="file://$PROJECT_DIR$/ConvolutionFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/TrainNew.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/LayerFC.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/LayerConv.py" />
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ without_lambda/NeuralNetwork.py" />
+    <entry file="file://$PROJECT_DIR$/DataIo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../C3DTS _ with_lambda_2 - 副本/TrainOld.py" />
+    <entry file="file://$PROJECT_DIR$/../C3D/TrainNew.py" />
+    <entry file="file://$PROJECT_DIR$/LayerMapping.py" />
+    <entry file="file://$PROJECT_DIR$/NeuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="361" column="11" lean-forward="true" selection-start-line="361" selection-start-column="11" selection-end-line="361" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MappingFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ActivateFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainOld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PoolFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3DCNN _with_mapping/LayerMaxPool.py" />
+    <entry file="file://$PROJECT_DIR$/../3DCNN _with_mapping - 副本/LayerMaxPool.py" />
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3DCNN _with_mapping - 副本/NeuralNetwork.py" />
+    <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2/NeuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="297" column="28" lean-forward="true" selection-start-line="132" selection-start-column="4" selection-end-line="297" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adam.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LayerMaxPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="890">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TrainNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NeuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LayerFC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LayerConv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="54" column="8" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/LayerMapping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/TrainNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/PoolFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="88" column="47" selection-start-line="88" selection-start-column="47" selection-end-line="88" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#112#1753#0" />
+            <element signature="e#1841#3705#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Res3DCNN - MulChannelSingleKneral-2 - 副本/LayerConv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
